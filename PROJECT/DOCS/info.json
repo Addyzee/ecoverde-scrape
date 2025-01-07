@@ -2,6 +2,7 @@
     "project_name": "Certificate and Product Scraper EccoVerde",
     "year": 2024,
     "status": "Complete",
+    "category":"Web Scraping",
     "keywords": ["Web Scraping", "Eco-friendly Products", "Crawlers/Spiders"],
     "languages/tools": ["Python", "Scrapy"],
     "contributors": ["Me"]
